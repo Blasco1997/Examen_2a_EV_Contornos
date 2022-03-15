@@ -1,6 +1,6 @@
 package examen;
 
-/** Clase de Cuenta
+/** Clase de Cuenta Corriente
  *
  */
 public class CuentaCorriente {

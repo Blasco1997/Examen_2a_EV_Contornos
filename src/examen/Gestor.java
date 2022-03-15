@@ -1,5 +1,8 @@
 package examen;
 
+/** Clase de Gestor
+ *
+ */
 public class Gestor {
     public String nombre;
     public double importeAutorizado;
